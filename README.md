@@ -1,5 +1,7 @@
 # Wordpress site
 
+#### Pre-requisites: packer & ansible
+
 ```sh
 $ cd packer_configs
 $ packer build packer.json
